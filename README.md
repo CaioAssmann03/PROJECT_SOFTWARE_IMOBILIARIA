@@ -1,4 +1,5 @@
 # Sistema de Imobiliária - Etapa 1
+Estou criando um sistema de imobiliaria para cadastrar Pessoas(inquilinos e proprietários) e imóveis.
 
 ## Padrões de Projeto Utilizados
 

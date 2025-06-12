@@ -1,5 +1,5 @@
-from models.pessoa import Proprietario, Inquilino
-
+from models.proprietario import Proprietario
+from models.inquilino import Inquilino
 class PessoaFactory:
     @staticmethod
     def criar_pessoa(tipo, nome, cpf):
